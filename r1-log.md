@@ -15,3 +15,6 @@ I used the same combo. I finished R1D3 of #100DaysOfCode using @freeCodeCamp and
 
 ### R1D4
 I used a different combo. I completed more @freeCodeCamp and started a Stackskills course. 
+
+### R1D5
+ I completed more @freeCodeCamp and  a Stackskills HTML5 course. 
