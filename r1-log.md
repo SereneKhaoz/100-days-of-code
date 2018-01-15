@@ -18,3 +18,10 @@ I used a different combo. I completed more @freeCodeCamp and started a Stackskil
 
 ### R1D5
  I completed more @freeCodeCamp and  a Stackskills HTML5 course. 
+
+### R1D6
+ I completed more @freeCodeCamp.
+ 
+ ### R1D7
+ I completed more @freeCodeCamp and started the tribute page project. 
+
