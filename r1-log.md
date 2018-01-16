@@ -20,8 +20,21 @@ I used a different combo. I completed more @freeCodeCamp and started a Stackskil
  I completed more @freeCodeCamp and  a Stackskills HTML5 course. 
 
 ### R1D6
- I completed more @freeCodeCamp.
+ I completed more @freeCodeCamp & Stackskills.
  
  ### R1D7
- I completed more @freeCodeCamp and started the tribute page project. 
+ I completed more @freeCodeCamp & Stackskills.
+ 
+### R1D8 
+I completed more @freeCodeCamp and started the tribute page project. 
+
+ ### R1D9
+ I completed more @freeCodeCamp.
+ 
+  ### R1D10
+ I completed more @freeCodeCamp started tribute page project.
+ 
+   ### R1D11
+ I completed more @freeCodeCamp and started fullstack certificate via Lynda.com.
+ 
 
