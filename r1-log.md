@@ -36,5 +36,6 @@ I completed more @freeCodeCamp and started the tribute page project.
  
    ### R1D11
  I completed more @freeCodeCamp and started fullstack certificate via Lynda.com.
- 
+ ### R1D12
+ I completed more @freeCodeCamp 
 
