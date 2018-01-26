@@ -39,3 +39,23 @@ I completed more @freeCodeCamp and started the tribute page project.
  ### R1D12
  I completed more @freeCodeCamp 
 
+ ### R1D13
+ I completed more @freeCodeCamp
+ 
+  ### R1D14
+ I completed more @freeCodeCamp
+ 
+  ### R1D15
+ I completed more @freeCodeCamp
+ 
+  ### R1D16
+ I completed more @freeCodeCamp
+ 
+  ### R1D17
+ I completed more @freeCodeCamp
+ 
+  ### R1D18
+ I completed more @freeCodeCamp and Udacity
+ 
+  ### R1D19
+ I completed more @freeCodeCamp and Lynda.com
