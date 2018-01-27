@@ -59,3 +59,10 @@ I completed more @freeCodeCamp and started the tribute page project.
  
   ### R1D19
  I completed more @freeCodeCamp and Lynda.com
+ 
+   ### R1D20
+ I reached 200 in @freeCodeCamp.
+ 
+   ### R1D21
+ I completed more @freeCodeCamp and personal project. 
+ 
