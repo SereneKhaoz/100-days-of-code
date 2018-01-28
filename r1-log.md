@@ -66,3 +66,8 @@ I completed more @freeCodeCamp and started the tribute page project.
    ### R1D21
  I completed more @freeCodeCamp and personal project. 
  
+ ### R1D22
+ I completed more @freeCodeCamp and personal project. 
+ 
+  ### R1D23
+ I completed more @freeCodeCamp and Udemy. 
