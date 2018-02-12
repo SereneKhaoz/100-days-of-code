@@ -100,4 +100,5 @@ I completed more @freeCodeCamp and started the tribute page project.
  ### R1D36
  I completed more  Lynda.com
  
- 
+  ### R1D37
+ I completed Intro to Bootstrap via Udemy.
