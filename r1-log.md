@@ -71,3 +71,33 @@ I completed more @freeCodeCamp and started the tribute page project.
  
   ### R1D23
  I completed more @freeCodeCamp and Udemy. 
+ 
+  ### R1D24
+ I reached 200 in @freeCodeCamp.
+  ### R1D25
+ I reached 200 in @freeCodeCamp.
+  ### R1D26
+ I reached 200 in @freeCodeCamp. 
+ ### R1D27
+ I reached 200 in @freeCodeCamp.
+ 
+  ### R1D28
+ I reached 200 in @freeCodeCamp.
+  ### R1D29
+ I reached 200 in @freeCodeCamp.
+  ### R1D30
+ I reached 200 in @freeCodeCamp.
+  ### R1D31
+ I reached 200 in @freeCodeCamp.
+ ### R1D32
+ I completed more @freeCodeCamp and Lynda.com
+ ### R1D33
+ I completed more @freeCodeCamp and Lynda.com
+ ### R1D34
+ I completed more @freeCodeCamp and Lynda.com
+ ### R1D35
+ I completed more @freeCodeCamp and Lynda.com
+ ### R1D36
+ I completed more  Lynda.com
+ 
+ 
