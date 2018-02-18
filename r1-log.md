@@ -101,4 +101,19 @@ I completed more @freeCodeCamp and started the tribute page project.
  I completed more  Lynda.com
  
   ### R1D37
- I completed Intro to Bootstrap via Udemy.
+ I completed Coding game onboarding. 
+ 
+  ### R1D38
+ I worked on https://www.codingame.com/ide/puzzle/the-descent
+ 
+  ### R1D39
+ I worked on https://www.codingame.com/ide/puzzle/the-descent
+ 
+  ### R1D40
+Gave up on https://www.codingame.com/ide/puzzle/the-descent
+ 
+  ### R1D41
+ Worked on Tut+ Timeline Tutorial for @freecodecamp tribute page
+ 
+  ### R1D42
+ I completed GA portfolio page project. 
