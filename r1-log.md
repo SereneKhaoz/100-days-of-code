@@ -117,3 +117,6 @@ Gave up on https://www.codingame.com/ide/puzzle/the-descent
  
   ### R1D42
  I completed GA portfolio page project. 
+ 
+  ### R1D42
+ I started the Upskills Blog project. 
