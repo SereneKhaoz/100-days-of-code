@@ -123,3 +123,6 @@ Gave up on https://www.codingame.com/ide/puzzle/the-descent
  
    ### R1D44
  I completed more  Lynda.com
+
+   ### R1D45
+ I completed more of the Upskills Blog project. 
