@@ -132,5 +132,8 @@ Gave up on https://www.codingame.com/ide/puzzle/the-descent
  
   ### R1D47
  I completed more  Lynda.com
+ 
+   ### R1D48
+ I completed more  Lynda.com
 
 
