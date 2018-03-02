@@ -144,3 +144,6 @@ Gave up on https://www.codingame.com/ide/puzzle/the-descent
  
  ### R1D51
  More Lynda.com. 
+ 
+  ### R1D52
+ More Lynda.com and W3C specification. 
