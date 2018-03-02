@@ -138,3 +138,9 @@ Gave up on https://www.codingame.com/ide/puzzle/the-descent
 
  ### R1D49
  I started the Lynda.com HTML challenge. 
+ 
+ ### R1D50
+ I completed the Lynda.com HTML challenge. 
+ 
+ ### R1D51
+ More Lynda.com. 
